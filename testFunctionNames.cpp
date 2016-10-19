@@ -15,6 +15,8 @@ int long_Name_Function_That_Exceeds_The_Column_Limit( unsigned int a, int abcde,
 
 int main(){
 
+int a;
+
 long_Name_Function_That_Exceeds_The_Column_Limit( 1234, 5678, 9101112, 13141516, 17181920);
 
 long_Name_Function_That_Exceeds_The_Column_Limit( 1234, 5678, 9101112, 13141516, 17181920, 21222324);
